@@ -1,2 +1,3 @@
 # static
-静态文件服务
+
+This is the static web page.
